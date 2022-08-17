@@ -1,0 +1,3 @@
+/*
+  Some sort of authentication middleware
+*/
